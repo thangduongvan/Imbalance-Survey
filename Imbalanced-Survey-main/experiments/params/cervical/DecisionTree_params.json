@@ -1,0 +1,5 @@
+{
+    "criterion": "gini",
+    "max_depth": 15,
+    "max_features": "auto"
+}

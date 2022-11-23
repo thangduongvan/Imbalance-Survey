@@ -1,0 +1,5 @@
+{
+    "iterations": 200,
+    "learning_rate": 1,
+    "max_depth": 15
+}

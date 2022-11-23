@@ -1,0 +1,5 @@
+{
+    "algorithm": "SAMME",
+    "learning_rate": 1,
+    "n_estimators": 100
+}

@@ -1,0 +1,6 @@
+{
+    "criterion": "gini",
+    "max_depth": 15,
+    "max_features": "log2",
+    "n_estimators": 50
+}

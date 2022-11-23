@@ -1,0 +1,6 @@
+{
+    "gamma": 0.01,
+    "learning_rate": 1,
+    "max_depth": 5,
+    "n_estimators": 100
+}
